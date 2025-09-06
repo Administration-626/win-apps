@@ -22,19 +22,21 @@
 
 ## 🎯 开发与编程
 
-| 软件名称 | 功能描述 | 官网链接 |
-|---------|---------|----------|
-| Git | 版本控制系统 | [官网](https://git-scm.com/) |
-| VS Code | 代码编辑器 | [官网](https://code.visualstudio.com/) |
-| Windows Terminal | 现代终端 | [Microsoft Store](https://aka.ms/terminal) |
+| 软件名称             | 功能描述   | 官网链接                                       |
+| ---------------- | ------ | ------------------------------------------ |
+| Git              | 版本控制系统 | [官网](https://git-scm.com/)                 |
+| VS Code          | 代码编辑器  | [官网](https://code.visualstudio.com/)       |
+| Windows Terminal | 现代终端   | [Microsoft Store](https://aka.ms/terminal) |
+| Cheat Engine     | 修改器    | [官网](https://www.cheatengine.org/)         |
 
 ## 📝 文档与写作
 
-| 软件名称 | 功能描述 | 官网链接 |
-|---------|---------|----------|
+| 软件名称            | 功能描述        | 官网链接                                                            |
+| --------------- | ----------- | --------------------------------------------------------------- |
 | Typora/Obsidian | Markdown编辑器 | [Typora](https://typora.io/) / [Obsidian](https://obsidian.md/) |
-| SumatraPDF | 文档阅读器 | [官网](https://www.sumatrapdfreader.org/) |
-| Notepad-- | 文本编辑器 | [GitHub](https://github.com/cxasm/notepad--) |
+| SumatraPDF      | 文档阅读器       | [官网](https://www.sumatrapdfreader.org/)                         |
+| Notepad--       | 文本编辑器       | [GitHub](https://github.com/cxasm/notepad--)                    |
+| Sublime Text    | 文本编辑器       | [Sublime Text](https://www.sublimetext.com/)                    |
 
 ## 🎬 多媒体
 
@@ -46,12 +48,14 @@
 
 ## 🌐 网络与通信
 
-| 软件名称 | 功能描述 | 官网链接 |
-|---------|---------|----------|
-| Chrome | 网页浏览器 | [官网](https://www.google.com/chrome/) |
-| Clash Verge | 代理软件 | [GitHub](https://github.com/zzzgydi/clash-verge) |
-| FileZilla Client | FTP客户端 | [官网](https://filezilla-project.org/) |
-| MobaXterm | 终端和远程连接 | [官网](https://mobaxterm.mobatek.net/) |
+| 软件名称             | 功能描述    | 官网链接                                             |
+| ---------------- | ------- | ------------------------------------------------ |
+| Tim              | 简洁版qq   | [官网](https://tim.qq.com/download.html)           |
+| Chrome           | 网页浏览器   | [官网](https://www.google.com/chrome/)             |
+| Clash Verge      | 代理软件    | [GitHub](https://github.com/zzzgydi/clash-verge) |
+| FileZilla Client | FTP客户端  | [官网](https://filezilla-project.org/)             |
+| MobaXterm        | 终端和远程连接 | [官网](https://mobaxterm.mobatek.net/)             |
+| Wireshark        | 网络分析    | [官网](https://www.wireshark.org/)                 |
 
 ## 🎨 设计与办公
 
