@@ -1,0 +1,10 @@
+# Windows 应用推荐项目 .gitignore
+
+# 包含所有项目文件
+*
+
+# 但是排除以下文件和目录（允许提交）
+!.gitignore
+!README.md
+!apps.md
+!git-config.txt
